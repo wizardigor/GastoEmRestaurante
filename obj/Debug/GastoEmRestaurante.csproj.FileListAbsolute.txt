@@ -1,0 +1,19 @@
+C:\Users\Aluno\source\repos\Divisao\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+C:\Users\Aluno\source\repos\Divisao\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+C:\Users\Aluno\source\repos\Divisao\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+C:\Users\Aluno\source\repos\Divisao\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Form1.resources
+C:\Users\Aluno\source\repos\Divisao\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Divisao\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Divisao\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Divisao\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+C:\Users\Aluno\source\repos\Divisao\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Form1.resources
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb
